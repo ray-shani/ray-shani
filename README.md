@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-I'm a passionate junior developer with experience in javascript and a bit of python. I love tackling complex problems,
+I'm a passionate developer with experience in javascript and a bit of python. I love tackling complex problems,
 learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Vanilla Javascript and Python
